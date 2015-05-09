@@ -12,10 +12,12 @@ Revisão Bibliográfica
 
 - 1.4 Considerações finais
 
+
 2. Monitoramento de aplicações
 -------------------------------
 	
 - 2.* Considerações finais
+
 
 3. Problema entre equipes de desenvolvimento e equipes de operações
 --------------------------------------------------------------------
@@ -28,15 +30,20 @@ Revisão Bibliográfica
 
 - 3.3 Problemas entre as equipes 
 
+
 4. DevOps
 ---------
 
-- 3.1 Como surgiu
+- 4.1 Introdução
 
-- 3.2 Introdução
+- 4.2 Como surgiu
 
-- 3.3 Conceitos
+- 4.3 Conceitos
 
-- 3.4 Ferramentas
+- 4.4 Ferramentas
+	- 4.4.1 Gerenciamento do ambiente de desenvolvimento
+	- 4.4.2 Gerenciamento da configurações de servidores
+	- 4.4.3 Gerenciamento das configurações da aplicação
+	- 4.4.4 Monitoramento da aplicação
 
-- 3.5 Considerações finais
+- 4.5 Considerações finais
