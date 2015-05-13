@@ -21,6 +21,7 @@ RAM -
 SLA - Service Level Agreement 
 TOC - Theory of Constraints
 TDD - Test Driven Development
+CPU - Central processing unit
 
 LISTA DE FIGURAS
 ----------------
