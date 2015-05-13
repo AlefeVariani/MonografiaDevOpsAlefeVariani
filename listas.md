@@ -1,27 +1,30 @@
 LISTA DE ABREVIATURAS
 ---------------------
 
-TI - Tecnologia da Informação
-SO - Sistema Operacional
-IDE - Ambientes de desenvolvimento integrado 
+APM - Application Performance Monitoring
+CPU - Central processing unit
+CRS - Centro de Residencia em Software
+DBA -  Database administrator
+DNS - Domain Name System
+HTTP - Hypertext Transfer Protocol 
+LTS - Long Term Support
 NS - Rapid Application Development
 NTP - Network Time Protocol 
-SSH - Secure Shell
-HTTP - Hypertext Transfer Protocol 
-RAD - Rapid Application Development
-LTS - Long Term Support
-CRS - Centro de Residencia em Software
-IBM - 
-SDK	- 
-PHP - 
-SSL - Secure Socket Layer
-DNS - 
 OMSA - Dell OpenManage Server Administrator
-RAM - 
+PHP - Hypertext Preprocessor
+RAD - Rapid Application Development
+RAM - Random Access Memory
+SDK - Software Development Kit
 SLA - Service Level Agreement 
-TOC - Theory of Constraints
+SO - Sistema Operacional
+SSH - Secure Shell
+SSL - Secure Socket Layer
 TDD - Test Driven Development
-CPU - Central processing unit
+TI - Tecnologia da Informação
+TOC - Theory of Constraints
+IBM - International Business Machines
+IDE - Ambientes de desenvolvimento integrado 
+
 
 LISTA DE FIGURAS
 ----------------
