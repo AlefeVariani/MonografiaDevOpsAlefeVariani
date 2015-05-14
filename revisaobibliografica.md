@@ -30,6 +30,7 @@ Revisão Bibliográfica
 
 - 3.3 Problemas entre as equipes 
 
+- 3.4 Considerações finais
 
 4. DevOps
 ---------
