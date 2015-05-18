@@ -4,10 +4,10 @@
 4.1 Apresentação dos diferentes Ambientes de desenvolvimento de software
 ------------------------------------------------------------------------
 
-- 4.1.2 Ambiente de desenvolvimento
-- 4.1.3 Ambiente de produção
-- 4.1.4 Ambiente de operações
-- 4.1.5 Considerações finais
+- 4.1.1 Ambiente de desenvolvimento
+- 4.1.2 Ambiente de produção
+- 4.1.3 Ambiente de operações
+- 4.1.4 Considerações finais
 
 
 4.2 Monitoramento de aplicações
