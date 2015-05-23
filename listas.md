@@ -10,7 +10,7 @@ LISTA DE ABREVIATURAS
  - LTS 		Long Term Support
  - NS 		Rapid Application Development
  - NTP 		Network Time Protocol 
- - OMSA 		Dell OpenManage Server Administrator
+ - OMSA 	Dell OpenManage Server Administrator
  - PHP 		Hypertext Preprocessor
  - RAD 		Rapid Application Development
  - RAM 		Random Access Memory
@@ -61,3 +61,4 @@ LISTA DE TABELAS
  - Tabela 2: Principais comandos do Vagrant	58
  - Tabela 3: Principais componentes do Puppet	62
  - Tabela 4: Principais componentes do Chef	64
+
