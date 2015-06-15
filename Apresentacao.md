@@ -1,3 +1,5 @@
+Mapeamento apresentação
+=======================
 
 Introdução
 ----------
@@ -24,10 +26,6 @@ Problemas
 - Processo dos setores de TI com conceitos de sistemas estáticos
 (e os atuais processo e modelo de TI de acumular mudanças pra liberações ja esta com sinais de esgotamento)
 
-(para essas mudanças equipes de desenvolvimento aderiam aos metodos ageis, mas isso não alcançou todo
-valor da aplicação )
-
-(entao o DevOps surgiu para solucionar alguns problemas)
 - Área de desenvolvimento e infraestrutura trabalhando separadamente
 (dificulta a comunicação e entendimento de ambas as partes, onde causam conflitos na hora de implantar
 novas funcionalidades da aplicação)
@@ -61,7 +59,7 @@ DevOps, analisar às melhorias que o DevOps pode trazer para o ambiente de desen
 de software e aplicá-la em uma situação real, para verificar se a abordagem realmente traz
 benefícios aos envolvidos no processo de desenvolvimento de software."
 
--
+
 Objetivos Especificos 
 
 - Conhecer os processos do desenvolvimento de software.
@@ -96,13 +94,12 @@ gestão de mudanças, os processos longos para atualizar versões das aplicaçõ
 - Surgimento de Silos
 (empresas de TI geralmente são divididas em equipes, cada qual com suas funcionalidade sem haver comunicação entre elas)
 
-============================================
 
 Revisão bibliografica
 ---------------------
 
 Ambientes de Desenvolvimento de Software
----------
+----------------------------------------
 
 - Ambientes de Desenvolvimento
 - Ambientes de Produção
@@ -122,8 +119,8 @@ Envolve um coleção de ferramentas
 Ambientes de Produção
 ---------------------
 
-- Processo de execução de produto, onde os usuario terão acesso ao software desenvolvimento
-- Mantêm sempre um grau de complexidade alto
+Processo de execução de produto, onde os usuario terão acesso ao software desenvolvimento
+Mantêm sempre um grau de complexidade alto
 - Gerenciamento de dependências
 (conforme cresce as a aplicacao, aumenta o numero de pacotes e dependecias)
 
@@ -147,7 +144,7 @@ obs:deploy levar o codigo desenvolvido pra produção
 Monitoramento
 -------------
 
-é observar, analisar, mantendo o acompanhamento de como a aplicação está se comportando 
+É observar, analisar e manter o acompanhamento de como a aplicação está se comportando. 
 
 (e ficando atento aos possíveis sinaisde que algo não está normal)
 
@@ -173,43 +170,45 @@ Pontos que o monitoramento deve ganhar atenção:
 -
 Segundo um pesquisa da Aberdeen:
 
-- as empresas podem antecipar em 53% de problemas nas aplicações antes de receber uma reclamação
-- melhoria de 48% no tempo de correções de falhas no desempenho
-- redução de 15% no número total de reclamações dos usuários
+- As empresas podem antecipar em 53% de problemas nas aplicações antes de receber uma reclamação
+- Melhoria de 48% no tempo de correções de falhas no desempenho
+- Redução de 15% no número total de reclamações dos usuários
 
 Equipes
 -------
 
-consiste em um grupo de pessoas que compreende seus objetivos e está engajada em alcançá-los, de forma compartilhada
+Consiste em um grupo de pessoas que compreende seus objetivos e está engajada em alcançá-los, de forma compartilhada
+
+- Equipes de Desenvolvimento
+- Equipes de Operações
+
 
 Equipes de Desenvolvimento
-Equipes de Operações
+--------------------------
 
--
-Equipes de Desenvolvimento
-
-responsavel por desenvolver novos produtos ou funcionalidades e dar manutenção
-para possíveis problemas que ocorram no software
+Responsavel por desenvolver novos produtos ou funcionalidades e dar manutenção
+para possíveis problemas que ocorram no software.
 Dentre as principais responsabilidade são:
-- design do software
-- prototipo
-- programação
-- testes
-- validação
+- Design do software
+- Prototipo
+- Programação
+- Testes
+- Validação
 
--
+
 Equipes de Operações
+--------------------
  
 Responsaveis por manter os sistemas funcionando, monitorando o funcionamento, a
-performance, avaliando e propor melhorias
-Principais responsabilidades
-- gestão de ambiente de teste
+performance, avaliando e propor melhorias.
+Principais responsabilidades:
+- Gestão de ambiente de teste
 (garantir que erros não aparecam em ambientes de produção)
 
-- gestão de error e incidentes
+- Gestão de error e incidentes
 (gerenciar e resolver os problemas de forma rapida e segura)
 
-- feedback Continuo
+- Feedback Continuo
 (manter as equipes envolvidas atualizadas sobre o que está acontecendo nos processos)
 
 
@@ -240,22 +239,20 @@ Introdução
 O movimento/cultura DevOps foca em aperfeiçoamento da comunicação, colaboração e integração entre desenvolvedores de software e
 administradores da infraestrutura de TI.
 
--
+
 Como surgiu
 
-Por volta de 2008 começa a utilizar o termo infraestrutura ágil
-Em 2009 varias metodologias e pensamentos surgiram
-O termo DevOps foi criado durante a conferência Velocity da O’Reilly, 
+- Por volta de 2008 começa a utilizar o termo infraestrutura ágil
+- Em 2009 varias metodologias e pensamentos surgiram
+- O termo DevOps foi criado durante a conferência Velocity da O’Reilly, 
 onde John Allspaw e Paul Hammond apresentaram o trabalho “10+ Deploys Per Day: Dev and Ops Cooperation at Flickr”
+- No final de 2009 na Bélgica aconteceu o primeiro encontro chamado DevOpsDay, criado por Patrick Debois
+- Voltado inicialmente pra startups, depois a passando para ambientes coorporativos; (abordar detalhes de cada uma)
 
-No final de 2009 na Bélgica aconteceu o primeiro encontro chamado DevOpsDay, criado por Patrick Debois
 
-Voltado inicialmente pra startups, depois a passando para ambientes coorporativos; (abordar detalhes de cada uma)
-
--
 Conceitos 
 
-DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S
+DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 - Cultura
 (equipes precisam ser ter colaboração, integração, flexibilidade, mantendo um relaçaõ saudavel)
 
@@ -268,25 +265,32 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S
 - Compartilhamento
 (existir uma boa comunicação entre as equipes, permitir essa troca de ideias e problemas, isso no processo de melhoria continua)
  
--
+
 Ferramentas
-Gerenciamento do Ambiente de Desenvolvimento - busca manter ambientes de desenvolvimento e operações iguais[vagrant, docker]
-Gerenciamento de Configurações - busca manter configurações únicas permitindo o compartilhamento entre maquinas [puppet, chef]
-Gerenciamento das Configurações da Aplicação - utilizadas para instalação, gerencia e atualização de pacotes ou bibliotecas extras  [composer, Bundler]
-Monitoramento da Aplicação - permite ver e analisar
-como sua aplicação está funcionando [new relic, nagios]
+
+- Gerenciamento do Ambiente de Desenvolvimento 
+(busca manter ambientes de desenvolvimento e operações iguais[vagrant, docker])
+
+- Gerenciamento de Configurações
+(busca manter configurações únicas permitindo o compartilhamento entre maquinas [puppet, chef])
+
+- Gerenciamento das Configurações da Aplicação
+(utilizadas para instalação, gerencia e atualização de pacotes ou bibliotecas extras  [composer, Bundler])
+
+- Monitoramento da Aplicação
+(permite ver e analisar como sua aplicação está funcionando [new relic, nagios])
 
 
 Procedimentos metodologicos
-- pesquisa bibliográfica
+- Pesquisa bibliográfica
 (a partir de livros, artigos e materiais disponibilizados na Internet)
  
-- faz-se necessária pesquisa de levantamento de dados, através de uma
+- Faz-se necessária pesquisa de levantamento de dados, através de uma
 questionário sobre o atual funcionamento
 
-- analise e interpretação dos problemas
-- elaborações de etapas
-- relatando os dados conquistados
+- Analise e interpretação dos problemas
+- Elaborações de etapas
+- Relatando os dados conquistados
 
 Cronograma
 
@@ -294,7 +298,7 @@ Cronograma
 
 Orçamento
 
-Nenhum gasto foi necessário para este projeto.
+Nenhum gasto será necessário para este projeto.
 
 Referencias
 
@@ -304,4 +308,3 @@ DUVALL, Paul.
 LEITE, Jair C.
 RELIC, New.
 SATO, Danilo.
-
