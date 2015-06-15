@@ -28,37 +28,36 @@ LISTA DE ABREVIATURAS
 LISTA DE FIGURAS
 ----------------
 
- - Figura 1: Representação do sistema operacional como interface entre os usuários e recursos	19
- - Figura 2: Percentual de utilização dos SO mais usados na atualidade	20
- - Figura 3: Linguagens mais populares da atualidade	21
- - Figura 4: Representação controle de versão centralizado	22
- - Figura 5: Representação controle de versão distribuído	23
- - Figura 6: Representação do funcionamento de uma equipe	35
- - Figura 7: Representação dos dois personagens do DevOps	42
- - Figura 8: Fatores necessários para a cultura DevOps	43
- - Figura 9: Metodologias e pensamentos formados em 2009	45
- - Figura 10: Ilustração das edições passadas e próximas do DevOpsDay	46
- - Figura 11: Representação do local onde o DevOps atua	51
- - Figura 12: Ilustração do papel do líder da equipe com a cultura DevOps	53
- - Figura 14: Logo Docker	59
- - Figura 15: Comando fornecidos pelo Docker	60
- - Figura 16: Logo Puppet	61
- - Figura 17: Logo Chef	63
- - Figura 18: Logo Composer	65
- - Figura 19: Representação do arquivo composer.json	66
- - Figura 20: Logo Bundler	67
- - Figura 21: Representação do arquivo Gemfile	67
- - Figura 22: Logo Maven	68
- - Figura 23: Logo New Relic	69
- - Figura 24: Ilustração da interface da ferramenta New Relic	70
- - Figura 25: Logo Nagios	71
- - Figura 26: Representação da interface de administração do Nagios	72
+ - Figura 1: Representação do sistema operacional como interface entre os usuários e recursos
+ - Figura 2: Percentual de utilização dos SO mais usados na atualidade
+ - Figura 3: Linguagens mais populares da atualidade
+ - Figura 4: Representação controle de versão centralizado
+ - Figura 5: Representação controle de versão distribuído
+ - Figura 6: Representação do funcionamento de uma equipe
+ - Figura 7: Representação dos dois personagens do DevOps
+ - Figura 8: Fatores necessários para a cultura DevOps
+ - Figura 9: Metodologias e pensamentos formados em 2009
+ - Figura 10: Ilustração das edições passadas e próximas do DevOpsDay
+ - Figura 11: Representação do local onde o DevOps atua
+ - Figura 12: Ilustração do papel do líder da equipe com a cultura DevOps
+ - Figura 14: Logo Docker
+ - Figura 15: Comando fornecidos pelo Docker
+ - Figura 16: Logo Puppet
+ - Figura 17: Logo Chef
+ - Figura 18: Logo Composer
+ - Figura 19: Representação do arquivo composer.json
+ - Figura 20: Logo Bundler
+ - Figura 21: Representação do arquivo Gemfile
+ - Figura 22: Logo Maven
+ - Figura 23: Logo New Relic
+ - Figura 24: Ilustração da interface da ferramenta New Relic
+ - Figura 25: Logo Nagios
+ - Figura 26: Representação da interface de administração do Nagios
 
 LISTA DE TABELAS
 ----------------------------
 
- - Tabela 1: Apresentação dos principais padrões que suportam o DevOps	49
- - Tabela 2: Principais comandos do Vagrant	58
- - Tabela 3: Principais componentes do Puppet	62
- - Tabela 4: Principais componentes do Chef	64
-
+ - Tabela 1: Apresentação dos principais padrões que suportam o DevOps
+ - Tabela 2: Principais comandos do Vagrant
+ - Tabela 3: Principais componentes do Puppet
+ - Tabela 4: Principais componentes do Chef
