@@ -5,16 +5,15 @@ Introdução
 ----------
 
 - Avanço tecnológico e importância do software para as pessoas
-(devido avanço tecnológico e software terem se tornaram muito importante para pessoas, 
-sendo assim, qualidade e estabilidade do software)
-
-(hoje  o desenvolviemto consiste em varias etapas: levantamento de requisitos, implementação, testes e manutenção)
+> Hoje devido ao avanço tecnologicos, softwares e aplicações tem se tornado muito importante para pessoas hoje.
+> Então o Desenvolvimento precisa ser de qualidade e estável
 
 - Surgimento dos Métodos Ágeis
-(com isso prazos prazos longos era inviável)
+> Para isso surgiu os métodos ágeis, por que os atuais prazos longos hoje se torna inviavel
 
 - Divisão das responsabilidade
-(isso causos divisões dos desenvolvedores e quem dava manutenção)
+> Mas isso acabou criando divisões de responsabilidades.
+> Divisão de quem desenvolve de quem mantem o softwate funcionando
 
 
 Problemas
