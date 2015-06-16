@@ -133,8 +133,8 @@ Mantêm sempre um grau de complexidade alto
 Ambientes de Operações
 ----------------------
 
-- Necessario para a equipe de infraestrutura manter o software funcionando
-- Processos envolvidos
+Necessario para a equipe de infraestrutura manter o software funcionando
+Processos envolvidos
 - Instalação/Configuração de servidores
 - Build(processo de compilação, teste e
 empacotamento da aplicação) e Deploy(liberação de versões) da aplicação 
@@ -146,7 +146,7 @@ Monitoramento
 
 É observar, analisar e manter o acompanhamento de como a aplicação está se comportando. 
 
-(e ficando atento aos possíveis sinaisde que algo não está normal)
+(e ficando atento aos possíveis sinais de que algo não está normal)
 
 Pontos que o monitoramento deve ganhar atenção:
 - Notificações
@@ -247,7 +247,8 @@ Como surgiu
 - O termo DevOps foi criado durante a conferência Velocity da O’Reilly, 
 onde John Allspaw e Paul Hammond apresentaram o trabalho “10+ Deploys Per Day: Dev and Ops Cooperation at Flickr”
 - No final de 2009 na Bélgica aconteceu o primeiro encontro chamado DevOpsDay, criado por Patrick Debois
-- Voltado inicialmente pra startups, depois a passando para ambientes coorporativos; (abordar detalhes de cada uma)
+- Voltado inicialmente pra startups, depois a passando para ambientes coorporativos; 
+(abordar detalhes de cada uma)
 
 
 Conceitos 
@@ -294,7 +295,7 @@ questionário sobre o atual funcionamento
 
 Cronograma
 
-[imagem]
+![screenshot](img/cronograma.png)
 
 Orçamento
 
