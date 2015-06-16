@@ -5,8 +5,7 @@ Introdução
 ----------
 
 - Avanço tecnológico e importância do software para as pessoas
-> Hoje devido ao avanço tecnologicos, softwares e aplicações tem se tornado muito importante para pessoas hoje.
-> Então o Desenvolvimento precisa ser de qualidade e estável
+> Hoje devido ao avanço tecnologicos, softwares e aplicações tem se tornado muito importante para pessoas hoje. Então o Desenvolvimento precisa ser de qualidade e estável
 
 - Surgimento dos Métodos Ágeis
 > Para isso surgiu os métodos ágeis, por que os atuais prazos longos hoje se torna inviavel
