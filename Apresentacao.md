@@ -1,8 +1,8 @@
 Mapeamento apresentação
 =======================
 
-## Introdução
-
+Introdução
+----------
 
 - Avanço tecnológico e importância do software para as pessoas
 (devido avanço tecnológico e software terem se tornaram muito importante para pessoas, 
@@ -283,6 +283,8 @@ Ferramentas
 
 
 Procedimentos metodologicos
+---------------------------
+
 - Pesquisa bibliográfica
 (a partir de livros, artigos e materiais disponibilizados na Internet)
  
@@ -294,14 +296,17 @@ questionário sobre o atual funcionamento
 - Relatando os dados conquistados
 
 Cronograma
+----------
 
 ![screenshot](img/cronograma.png)
 
 Orçamento
+---------
 
 Nenhum gasto será necessário para este projeto.
 
 Referencias
+-----------
 
 4LINUX.
 CARVALHO, Guto.
