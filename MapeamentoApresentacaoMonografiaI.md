@@ -19,7 +19,7 @@ Problemas
 - Muitas demandas para um curto espaço de tempo;
 > Pela sociedade utilizar muitos meios digitais, cria-se muita demanda e exigências o mais rápido possível
 
-- Processo dos setores de TI com conceitos de sistemas estáticos;
+- Processos dos setores de TI com conceitos de sistemas estáticos;
 > Os atuais processo e modelos de TI de acumular mudanças para liberação não tem mais espaço e já tem sinais de esgotamento
 
 - Área de desenvolvimento e infraestrutura trabalhando separadamente;
@@ -100,6 +100,7 @@ Ambientes de Desenvolvimento de Software
 
 Necessário para a equipe de desenvolvimento desenvolver  o software.
 Envolve um coleção de ferramentas:
+
 - Sistema Operacional;
 - Linguagem de Programação;
 - IDE (ambiente de desenvolvimento integrado);
@@ -107,8 +108,9 @@ Envolve um coleção de ferramentas:
 
 **Ambientes de Produção**
 
-Processo de execução de produto, onde os usuário terão acesso ao software desenvolvimento.
+Processo de execução de produto, onde os usuários terão acesso ao software desenvolvimento.
 Mantêm sempre um grau de complexidade alto.
+
 - Gerenciamento de dependências;
 > Conforme cresce a aplicação, aumenta o numero de pacotes e dependências, então você tem que saber gerenciar isso
 
@@ -122,6 +124,7 @@ Mantêm sempre um grau de complexidade alto.
 
 Necessário para a equipe de infraestrutura manter o software funcionando
 Processos envolvidos:
+
 - Instalação/Configuração de servidores;
 - Build e Deploy da aplicação;
 > Processo de compilação, teste e empacotamento da aplicação || liberação de versões, levar o código desenvolvido pra produção
@@ -134,6 +137,7 @@ Monitoramento da Aplicação
 É observar, analisar e manter o acompanhamento de como a aplicação está se comportando. 
 
 Pontos que o monitoramento deve ganhar atenção:
+
 - Notificações;
 > Um bom monitoramento deve alertar quando algo estiver errado
 
@@ -167,9 +171,10 @@ Equipes
 
 **Equipes de Desenvolvimento**
 
-Responsável por desenvolver novos produtos ou funcionalidades e dar manutenção
-para possíveis problemas que ocorram no software.
+Responsável por desenvolver novos produtos, funcionalidades e dar manutenção para possíveis problemas que ocorram no software.
+
 Dentre as principais responsabilidade são:
+
 - Design do software;
 - Protótipo;
 - Programação;
@@ -178,9 +183,10 @@ Dentre as principais responsabilidade são:
 
 **Equipes de Operações**
  
-Responsáveis por manter os sistemas funcionando, monitorando o funcionamento, a
-performance, avaliando e propor melhorias.
+Responsáveis por manter os sistemas funcionando. Monitorando a
+performance, avaliando e propondo melhorias.
 Principais responsabilidades:
+
 - Gestão de ambiente de teste;
 > Garantir que erros não apareçam em ambientes de produção
 
@@ -226,13 +232,14 @@ O movimento/cultura DevOps foca em aperfeiçoamento da comunicação, colaboraç
 - Em 2009 varias metodologias e pensamentos surgiram;
 - O termo DevOps foi criado durante a conferência Velocity, foi apresentaram o trabalho “10+ Deploys Per Day: Dev and Ops Cooperation at Flickr”;
 - No final de 2009 na Bélgica aconteceu o primeiro encontro chamado DevOpsDay, criado por Patrick Debois;
-- Voltado inicialmente pra startups, depois a passando para ambientes corporativos;
+- Voltado inicialmente pra startups, depois passou a ser aplicado em ambientes corporativos;
 
 > DevOps é mais fácil de aplicar em startups, por que são existe divisões de departamentos e todo mundo trabalham juntos, sem a criação de vícios, já o ambiente corporativo a divisão é clara e existe muita burocracia e vícios, onde que para você solucionar um problema simples você tem que passar por uma processo longo e demorado, onde existe toda uma gestão de mudanças, similar ao ambiente que será aplicado
 
 **Conceitos** 
 
 DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
+
 - Cultura;
 > É você tornar equipes multidisciplinares e proativas, com colaboração, integração e flexibilidade dos envolvidos, mantendo sempre uma relação saudável e com pessoas motivadas
 
@@ -265,7 +272,7 @@ Procedimentos metodológicos
 - Pesquisa bibliográfica;
 > A partir de livros, artigos e materiais disponibilizados na Internet
  
-- Faz-se necessária pesquisa de levantamento de dados, através de uma
+- Pesquisa de levantamento de dados, através de uma
 questionário sobre o atual funcionamento;
 
 - Analise e interpretação dos problemas;
