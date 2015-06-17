@@ -12,5 +12,5 @@ Tema
 Informações
 -----------
 
-- Apresentação da Monografia I dia 15/06/2015, material disponível no [SlideShare](http://www.slideshare.net/alefevariani/).
+- Apresentação da Monografia I dia 18/06/2015, material disponível no [SlideShare](http://www.slideshare.net/alefevariani/).
 - Apresentação da Monografia II - não previsto ainda.
