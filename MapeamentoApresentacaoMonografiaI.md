@@ -264,9 +264,9 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 - Gerenciamento das Configurações da Aplicação;
 > Utilizadas para instalação, gerencia e atualização de pacotes ou bibliotecas extras
 
-![screenshot](img/composer-logo.png)
+![screenshot](img/composer-logo-menor.png)
 
-![screenshot](img/gembundler.png)
+![screenshot](img/gembundler-menor.png)
 
 
 - Gerenciamento de Configurações;
