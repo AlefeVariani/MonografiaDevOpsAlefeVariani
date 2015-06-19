@@ -272,7 +272,7 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 - Gerenciamento de Configurações;
 > Busca manter configurações únicas permitindo o compartilhamento entre maquinas
 
-![screenshot](img/puppet-logo.svg)
+![screenshot](img/Puppet_Labs_Logo.png)
 
 ![screenshot](img/pic-chef-logo.png)
 
