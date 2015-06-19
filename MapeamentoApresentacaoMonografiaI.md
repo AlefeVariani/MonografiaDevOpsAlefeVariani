@@ -78,7 +78,7 @@ Justificativa
 > Equipes de operações geralmente tem muito medo de mudanças, e esse medo acaba criando processos caro e burocrático, onde para atualizar versões ou corrigir erro das aplicações precisa passar por processo longos de gestão.
 
 - Liberações de versões (deploy) arriscadas;
-> Acontece muito, é desenvolvedores saberem como os seus códigos se comportam no ambiente de produção
+> Acontece muito, é desenvolvedores não saberem como os seus códigos se comportam no ambiente de produção
 
 - “Funciona na minha máquina”;
 > Problemas que acontecem só na produção e nas maquinas dos desenvolvedores não, devido as diferencias dos ambientes
@@ -256,6 +256,8 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 
 - Gerenciamento do Ambiente de Desenvolvimento 
 > Busca manter ambientes de desenvolvimento e operações iguais[vagrant, docker]
+
+<img src="/img/docker-logo.png" height="100" width="50">
 
 - Gerenciamento de Configurações;
 > Busca manter configurações únicas permitindo o compartilhamento entre maquinas [puppet, chef]
