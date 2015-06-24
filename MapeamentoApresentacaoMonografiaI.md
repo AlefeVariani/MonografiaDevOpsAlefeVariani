@@ -127,7 +127,8 @@ Processos envolvidos:
 
 - Instalação/Configuração de servidores;
 - Build e Deploy da aplicação;
-> Processo de compilação, teste e empacotamento da aplicação || liberação de versões, levar o código desenvolvido pra produção
+> Processo de compilação, teste e empacotamento da aplicação liberação de versões, levar o código desenvolvido pra produção
+
 
 > Outro ponto importante e que o DevOps incentiva é o monitoramento da aplicação
 
@@ -254,8 +255,9 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
  
 **Ferramentas**
 
-- Gerenciamento do Ambiente de Desenvolvimento 
+- Gerenciamento do Ambiente de Desenvolvimento
 > Busca manter ambientes de desenvolvimento e operações iguais[vagrant, docker]
+
 
 ![screenshot](img/vagrant-logo.png)
 
