@@ -257,6 +257,7 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 **Ferramentas**
 
 - Gerenciamento do Ambiente de Desenvolvimento
+
 > Busca manter ambientes de desenvolvimento e operações iguais[vagrant, docker]
 
 
@@ -265,6 +266,7 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 ![screenshot](img/docker-logo.png)
 
 - Gerenciamento das Configurações da Aplicação;
+
 > Utilizadas para instalação, gerencia e atualização de pacotes ou bibliotecas extras
 
 
@@ -274,6 +276,7 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 
 
 - Gerenciamento de Configurações;
+
 > Busca manter configurações únicas permitindo o compartilhamento entre maquinas
 
 
@@ -283,6 +286,7 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 
 
 - Monitoramento da Aplicação;
+
 > Permite ver e analisar como sua aplicação está funcionando
 
 
