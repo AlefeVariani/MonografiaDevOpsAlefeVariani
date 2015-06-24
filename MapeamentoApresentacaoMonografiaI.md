@@ -127,6 +127,7 @@ Processos envolvidos:
 
 - Instalação/Configuração de servidores;
 - Build e Deploy da aplicação;
+
 > Processo de compilação, teste e empacotamento da aplicação liberação de versões, levar o código desenvolvido pra produção
 
 
