@@ -12,17 +12,17 @@ Tema
 Resumo
 ------
 
-- [Resumo e Abstract](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani)
+- [Resumo e Abstract](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/Resumo.md)
 
 Listas
 ------
 
-- [Listas de siglas e ilustrações](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani)
+- [Listas de siglas e ilustrações](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/Listas.md)
 
 Sumário
 -------
 
-- [Sumário](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani)
+- [Sumário](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/EstruturaGeral.md)
 
 Informações
 -----------
