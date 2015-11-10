@@ -9,8 +9,23 @@ Tema
 
 - Ambientes padronizados de Desenvolvimento e Monitoramento de Aplicações baseado na cultura DevOps.
 
+Resumo
+------
+
+- [Resumo e Abstract](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani)
+
+Listas
+------
+
+- [Listas de siglas e ilustrações](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani)
+
+Sumário
+-------
+
+- [Sumário](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani)
+
 Informações
 -----------
 
 - Apresentação da Monografia I dia 18/06/2015, material disponível no [SlideShare](http://www.slideshare.net/alefevariani/).
-- Apresentação da Monografia II - não previsto ainda.
+- Apresentação da Monografia II - 25/11/2015.
