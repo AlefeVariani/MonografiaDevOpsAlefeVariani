@@ -1,6 +1,6 @@
 
 LISTA DE ILUSTRAÇÕES
-=====================
+---------------------
 
  - Figura 1: Representação do sistema operacional como interface entre usuários e recursos.
  - Figura 2: Percentual de utilização dos SO mais usados na atualidade.
@@ -98,7 +98,7 @@ LISTA DE ILUSTRAÇÕES
  - Quadro 22: Comando enviar imagem Docker.
 
 LISTA DE SIGLAS
-================
+----------------
 
  - APM		Application Performance Monitoring
  - CPU 		Central processing unit

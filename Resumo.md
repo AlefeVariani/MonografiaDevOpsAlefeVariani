@@ -1,6 +1,6 @@
 
 RESUMO
-=======
+-------
 
 Com o avanço da tecnologia em software, aplicativos e outros meios digitais que buscam ajudar usuários em processos ou tarefas tem se tornado parte fundamental no dia a dia. Sistemas quando param de funcionar ou ficam fora do ar, horas de trabalho são perdidas por pessoas ou empresas que as utilizam, devido a isso é importante investir na qualidade e estabilidade do software.
 
@@ -13,7 +13,7 @@ Palavras-Chaves:  Qualidade e estabilidade do software, Métodos ágeis, Equipe 
 
 
 ABSTRACT
-=========
+---------
 
 With the advancement in software technology, applications and other digital seeking help users in processes or tasks has become an essential part in everyday life. When systems stop working or get off the air, working hours are lost by people or companies that use them, because it is important to invest in the quality and stability of the software.
 
