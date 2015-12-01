@@ -311,7 +311,7 @@ questionário sobre o atual funcionamento;
 Cronograma
 ----------
 
-![screenshot](../img/cronograma.png)
+![screenshot](cronograma.png)
 
 Orçamento
 ---------
