@@ -41,18 +41,18 @@ ABSTRACT
 4. PROBLEMAS ENTRE EQUIPES DE DESENVOLVIMENTO E EQUIPES DE OPERAÇÕES
 ---------------------------------------------------------------------
 
- - 4.1 Equipes de Desenvolvimento	34
- - 4.2 Equipes de Operações	35
- - 4.3 Problemas entre as Equipes	36
- - 4.4 Considerações Finais	38
+ - 4.1 Equipes de Desenvolvimento
+ - 4.2 Equipes de Operações
+ - 4.3 Problemas entre as Equipes
+ - 4.4 Considerações Finais
 
 5. DEVOPS
 ----------
 
- - 5.1 Introdução	38
- - 5.2 Como surgiu	41
- - 5.3 Conceitos	44
- - 5.4 Ferramentas	50
+ - 5.1 Introdução
+ - 5.2 Como surgiu
+ - 5.3 Conceitos
+ - 5.4 Ferramentas
 	- 5.4.1 Gerenciamento do Ambiente de Desenvolvimento
 	- 5.4.2 Gerenciamento de Configurações
 	- 5.4.3 Gerenciamento das Configurações da Aplicação
@@ -88,4 +88,3 @@ ABSTRACT
 
 REFERÊNCIAS BIBLIOGRÁFICAS
 ---------------------------
-

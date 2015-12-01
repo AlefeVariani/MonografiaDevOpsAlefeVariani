@@ -125,4 +125,3 @@ LISTA DE SIGLAS
  - TOC 		Theory of Constraints
  - IBM 		International Business Machines
  - IDE 		Ambientes de desenvolvimento integrado
-

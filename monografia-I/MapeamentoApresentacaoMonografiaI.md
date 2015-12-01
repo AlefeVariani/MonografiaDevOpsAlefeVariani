@@ -261,18 +261,18 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 > Busca manter ambientes de desenvolvimento e operações iguais[vagrant, docker]
 
 
-![screenshot](img/vagrant-logo.png)
+![screenshot](../img/vagrant-logo.png)
 
-![screenshot](img/docker-logo.png)
+![screenshot](../img/docker-logo.png)
 
 - Gerenciamento das Configurações da Aplicação;
 
 > Utilizadas para instalação, gerencia e atualização de pacotes ou bibliotecas extras
 
 
-![screenshot](img/composer-logo-menor.png)
+![screenshot](../img/composer-logo-menor.png)
 
-![screenshot](img/gembundler-menor.png)
+![screenshot](../img/gembundler-menor.png)
 
 
 - Gerenciamento de Configurações;
@@ -280,9 +280,9 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 > Busca manter configurações únicas permitindo o compartilhamento entre maquinas
 
 
-![screenshot](img/Puppet_Labs_Logo.png)
+![screenshot](../img/Puppet_Labs_Logo.png)
 
-![screenshot](img/pic-chef-logo.png)
+![screenshot](../img/pic-chef-logo.png)
 
 
 - Monitoramento da Aplicação;
@@ -290,9 +290,9 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 > Permite ver e analisar como sua aplicação está funcionando
 
 
-![screenshot](img/new-relic-logo.png)
+![screenshot](../img/new-relic/new-relic-logo.png)
 
-![screenshot](img/nagios-logo.png)
+![screenshot](../img/nagios-logo.png)
 
 
 Procedimentos metodológicos
