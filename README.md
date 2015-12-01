@@ -28,4 +28,4 @@ Informações
 -----------
 
 - Apresentação da Monografia I dia 18/06/2015, material disponível no [SlideShare](http://www.slideshare.net/alefevariani/).
-- Apresentação da Monografia II - 25/11/2015.
+- Apresentação da Monografia II - 25/11/2015, material disponível no [SlideShare](http://www.slideshare.net/alefevariani/).
