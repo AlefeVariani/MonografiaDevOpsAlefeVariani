@@ -137,7 +137,7 @@ DevOps
 
 O movimento/cultura DevOps foca em aperfeiçoamento da comunicação, colaboração e integração entre desenvolvedores de software e administradores da infraestrutura de TI.
 
-> O DevOps pode ser considerado um movimento cultural que tem objetivo de acabar com essa distancias entre equipes de desenvolvimento e equipes de operações, buscando automatizar ou mais numero possível de processo no desenvolvimento, através de comunicação, colaboração e integração sobre os envolvidos
+> O DevOps pode ser considerado um movimento cultural que tem objetivo de acabar com essa distancias entre equipes de desenvolvimento e equipes de operações, buscando automatizar ou mais numero possível de processo no desenvolvimento, através de comunicação, colaboração e integração sobre os envolvidos.
 
 **Como surgiu**
 
@@ -150,22 +150,22 @@ O movimento/cultura DevOps foca em aperfeiçoamento da comunicação, colaboraç
 DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 
 - Cultura;
-> É você tornar equipes multidisciplinares e proativas, com colaboração, integração e flexibilidade dos envolvidos, mantendo sempre uma relação saudável e com pessoas motivadas
+> É você tornar equipes multidisciplinares e proativas, com colaboração, integração e flexibilidade dos envolvidos, mantendo sempre uma relação saudável e com pessoas motivadas.
 
 - Automação;
-> É você buscar automatizar o maior número de processos possíveis
+> É você buscar automatizar o maior número de processos possíveis.
 
 - Medição/Avaliação;
-> Medir tudo que possível, para poder melhorar
+> Medir tudo que possível, para poder melhorar.
 
 - Compartilhamento;
-> Incentivar a comunicação entre as equipes, permitir que exista a troca de ideias e problemas, para existir uma melhoria continua
+> Incentivar a comunicação entre as equipes, permitir que exista a troca de ideias e problemas, para existir uma melhoria continua.
  
 **Ferramentas**
 
 - Gerenciamento do Ambiente de Desenvolvimento
 
-> Busca manter ambientes de desenvolvimento e operações iguais[vagrant, docker]
+> Busca manter ambientes de desenvolvimento e operações iguais[vagrant, docker].
 
 
 ![screenshot](../img/vagrant-logo.png)
@@ -174,7 +174,7 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 
 - Gerenciamento das Configurações da Aplicação;
 
-> Utilizadas para instalação, gerencia e atualização de pacotes ou bibliotecas extras
+> Utilizadas para instalação, gerencia e atualização de pacotes ou bibliotecas extras.
 
 
 ![screenshot](../img/composer-logo-menor.png)
@@ -184,7 +184,7 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 
 - Gerenciamento de Configurações;
 
-> Busca manter configurações únicas permitindo o compartilhamento entre maquinas
+> Busca manter configurações únicas permitindo o compartilhamento entre maquinas.
 
 
 ![screenshot](../img/Puppet_Labs_Logo.png)
@@ -194,7 +194,7 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 
 - Monitoramento da Aplicação;
 
-> Permite ver e analisar como sua aplicação está funcionando
+> Permite ver e analisar como sua aplicação está funcionando.
 
 
 ![screenshot](../img/new-relic/new-relic-logo.png)
@@ -210,6 +210,8 @@ Questionário
 - Questões sobre o entendimento e aplicação do DevOps na empresa;
 - Aplicado para o CRS e DTI da Unochapecó;
 - Aplicado para empresas do Oeste de Santa Catarina;
+> O objetivo é entender como funciona os processos e desenvolvimento do software para empresas da região, CRS e DTI da Unochapecó e também o entendimento sobre DevOps.
+
 
 **Questionário para empresas da região**
 
@@ -260,6 +262,8 @@ Aplicação dos Conceitos
 - Sistema monitorado através do New Relic foi infohab.org.br;
 - Tem como características realizar muitas consultas no banco de dados;
 - Transações web dos últimos 30 minutos;
+> Infohab é um sistema para divulgação de produção científica, geração do conhecimento e possue um acervo digital.
+
 
 **New Relic Recursos**
 
@@ -285,6 +289,8 @@ Aplicação dos Conceitos
 - Fácil utilização e distribuição;
 - Muito utilizado atualmente por devs/ops;
 - Permitiu manter ambientes do CRS e DTI iguais;
+> Docker oferece um local para armazenar as máquinas(imagens), semelhante ao que o GitHub faz.
+
 
 Resultados
 ----------
@@ -299,12 +305,19 @@ Resultados
 - Padronização dos ambientes de desenvolvimento e produção;
 - Diminuição das diferenças entre os ambientes de desenvolvimento e produção;
 - Diminuição da distância entre equipe de desenvolvedores (CRS) e equipe de operações (DTI da Unochapecó);
+> Sempre importante conhecer novos conceitos e ferramentas para quem tá começando ou para quem já está a um bom tempo no mercado.
+
 
 **Desvantagens**
 
 - Tempo gasto para aprender e utilizar ferramentas;
+> Hoje o tempo é sempre muito abertado.
+
 - Tempo para assimilar novos conceitos;
+> A aplicação de uma cultura precisa de tempo e muita motivação diante dos processos burocráticos da instituição.
+
 - Processos burocráticos da Instituição;
+> Meio corporativos possuem muitos vícios, que são difíceis de serem quebrados.
 
 Conclusões
 ----------
