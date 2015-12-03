@@ -58,7 +58,7 @@ benefícios aos envolvidos no processo de desenvolvimento de software."
 - Aplicar uma proposta em um ambiente desenvolvimento real (CRS – Unochapecó), utilizando conceitos e práticas do DevOps;
 - Analisar o comportamento, vantagens e desvantagens que a proposta traz ao ambiente de desenvolvimento;
 
-> Para se dizer o por que de utilizar o DevOps
+> Para se dizer o por que de utilizar o DevOps.
 
 Justificativa
 -------------
@@ -76,7 +76,7 @@ Justificativa
 > Acontece muito, é desenvolvedores não saberem como os seus códigos se comportam no ambiente de produção.
 
 - “Funciona na minha máquina”;
-> Problemas que acontecem só na produção e nas maquinas dos desenvolvedores não, devido as diferencias dos ambientes.
+> Problemas que acontecem só na produção e nas maquinas dos desenvolvedores não, devido as diferenças dos ambientes.
 
 - Surgimento de Silos;
 > Empresas de TI geralmente são divididas em equipes ou departamentos, cada qual com suas funcionalidade, sem haver comunicação entre elas.
@@ -110,7 +110,7 @@ Mantêm sempre um grau de complexidade alto.
 > Conforme cresce a aplicação, aumenta o numero de pacotes e dependências, então você tem que saber gerenciar isso.
 
 - Arquivos de configurações;
-> Onde é guardadas informações para a aplicação funcionar, tipos de maquina, aplicação, segurança.
+> Onde é guardadas informações para a aplicação funcionar, tipos de máquina, aplicação, segurança.
 
 - Versões diferentes;
 > Saber qual a versão está sendo usada e quais funcionalidades o usuário pode usar.
@@ -123,10 +123,10 @@ Processos envolvidos:
 - Instalação/Configuração de servidores;
 - Build e Deploy da aplicação;
 
-> Processo de compilação, teste e empacotamento da aplicação liberação de versões, levar o código desenvolvido pra produção.
+> Processo de compilação, teste e empacotamento da aplicação liberações de versões, levar o código desenvolvido pra produção.
 
 
-> Outro ponto importante e que o DevOps incentiva é o monitoramento da aplicação
+> Outro ponto importante e que o DevOps incentiva é o monitoramento da aplicação.
 
 Monitoramento da Aplicação
 --------------------------
@@ -180,8 +180,7 @@ Dentre as principais responsabilidade são:
 
 **Equipes de Operações**
  
-Responsáveis por manter os sistemas funcionando. Monitorando a
-performance, avaliando e propondo melhorias.
+Responsáveis por manter os sistemas funcionando. Monitorando a performance, avaliando e propondo melhorias.
 Principais responsabilidades:
 
 - Gestão de ambiente de teste;
@@ -190,7 +189,7 @@ Principais responsabilidades:
 - Gestão de error e incidentes;
 > Gerenciar e resolver os problemas de forma rápida e segura.
 
-- Feedback Continuo
+- Feedback Contínuo
 > Manter as equipes envolvidas atualizadas sobre o que está acontecendo nos processos.
 
 **Problemas entre as Equipes**
@@ -221,7 +220,7 @@ DevOps
 
 O movimento/cultura DevOps foca em aperfeiçoamento da comunicação, colaboração e integração entre desenvolvedores de software e administradores da infraestrutura de TI.
 
-> O DevOps pode ser considerado um movimento cultural que tem objetivo de acabar com essa distancias entre equipes de desenvolvimento e equipes de operações, buscando automatizar ou mais numero possível de processo no desenvolvimento, através de comunicação, colaboração e integração sobre os envolvidos
+> O DevOps pode ser considerado um movimento cultural que tem objetivo de acabar com essa distância entre equipes de desenvolvimento e equipes de operações, buscando automatizar ou mais numero possível de processo no desenvolvimento, através de comunicação, colaboração e integração sobre os envolvidos.
 
 **Como surgiu**
 
@@ -247,7 +246,7 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 > Medir tudo que possível, para poder melhorar.
 
 - Compartilhamento;
-> Incentivar a comunicação entre as equipes, permitir que exista a troca de ideias e problemas, para existir uma melhoria continua.
+> Incentivar a comunicação entre as equipes, permitir que exista a troca de ideias e problemas, para existir uma melhoria contínua.
  
 **Ferramentas**
 

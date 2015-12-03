@@ -5,7 +5,7 @@ Introdução
 ----------
 
 - Avanço tecnológico e importância do software para as pessoas;
-> Hoje devido ao avanço tecnológicos, softwares e aplicações tem se tornado muito importante para as pessoas.
+> Hoje devido ao avanço tecnológicos, software e aplicações tem se tornado muito importante para as pessoas.
 
 - Surgimento dos Métodos Ágeis;
 
@@ -37,10 +37,10 @@ Justificativa
 > Equipe de operações não participa.
 
 - Medos de mudanças e liberações de versões (deploy) arriscadas;
-> Equipes de operações geralmente não tem certeza de que liberação não possue nenhum erro.
+> Equipes de operações geralmente não tem certeza de que as liberações não possue nenhum erro.
 
 - Surgimento de Silos;
-> Empresas de TI geralmente são divididas em equipes ou departamentos, cada qual com suas funcionalidade, sem haver comunicação entre elas.
+> Empresas de TI geralmente são divididas em equipes ou departamentos, cada qual com suas funcionalidades, sem haver comunicação entre elas.
 
 
 Ambientes de Desenvolvimento de Software
@@ -111,13 +111,12 @@ Dentre as principais responsabilidade são:
 
 **Equipes de Operações**
  
-Responsáveis por manter os sistemas funcionando. Monitorando a
-performance, avaliando e propondo melhorias.
+Responsáveis por manter os sistemas funcionando. Monitorando aperformance, avaliando e propondo melhorias.
 Principais responsabilidades:
 
 - Gestão de ambiente de teste;
 - Gestão de error e incidentes;
-- Feedback Continuo
+- Feedback Contínuo
 
 **Problemas entre as Equipes**
 
@@ -137,7 +136,7 @@ DevOps
 
 O movimento/cultura DevOps foca em aperfeiçoamento da comunicação, colaboração e integração entre desenvolvedores de software e administradores da infraestrutura de TI.
 
-> O DevOps pode ser considerado um movimento cultural que tem objetivo de acabar com essa distancias entre equipes de desenvolvimento e equipes de operações, buscando automatizar ou mais numero possível de processo no desenvolvimento, através de comunicação, colaboração e integração sobre os envolvidos.
+> O DevOps pode ser considerado um movimento cultural que tem objetivo de acabar com essa distância entre equipes de desenvolvimento e equipes de operações, buscando automatizar ou mais numero possível de processo no desenvolvimento, através de comunicação, colaboração e integração sobre os envolvidos.
 
 **Como surgiu**
 
@@ -210,7 +209,7 @@ Questionário
 - Questões sobre o entendimento e aplicação do DevOps na empresa;
 - Aplicado para o CRS e DTI da Unochapecó;
 - Aplicado para empresas do Oeste de Santa Catarina;
-> O objetivo é entender como funciona os processos e desenvolvimento do software para empresas da região, CRS e DTI da Unochapecó e também o entendimento sobre DevOps.
+> O objetivo é entender como funciona os processos e desenvolvimento do software para empresas da região, CRS e DTI da Unochapecó e também entender sobre o entendimento sobre DevOps.
 
 
 **Questionário para empresas da região**
@@ -218,7 +217,29 @@ Questionário
 - Distribuído para mais de 25 empresas de desenvolvimento onde teve 11 respostas obtidas;
 - Pode-se identificar pouco conhecimento das empresas e apresentação de vários problemas que a cultura DevOps poderia auxiliar a resolver;
 
-[imagens]
+1. Já ouvi-o falar sobre DevOps?
+
+
+![screenshot](../img/graficos-questionario/1.png)
+
+
+4. Os ambientes de produção e desenvolvimento são iguais (versões de linguagens de programação, SO, banco de dados entre outros)?
+
+
+![screenshot](../img/graficos-questionario/3.png)
+
+
+12. É usado alguma ferramenta para monitorar as aplicações?
+
+
+![screenshot](../img/graficos-questionario/10.png)
+
+
+17. Com que frequência é feita liberação de versão do(s) software?
+
+
+![screenshot](../img/graficos-questionario/17.png)
+
 
 **Questionário aplicado para CRS e DTI da Unochapecó**
 
@@ -267,7 +288,29 @@ Aplicação dos Conceitos
 
 **New Relic Recursos**
 
-[imagens]
+- Transações Web do Infohab (overview);
+
+
+![screenshot](../img/new-relic/infohab-tela-inicial.png)
+
+
+- Consultas mais demoradas da Infohab (transactions);
+
+
+![screenshot](../img/new-relic/infohab-tela-inicial-consutas.png)
+
+
+- Tela queries Infohab (Databases);
+
+
+![screenshot](../img/new-relic/infohab-databases3.png)
+
+
+- Bases com conexão (Service Maps);
+
+
+![screenshot](../img/new-relic/infohab-service-maps.png)
+
 
 **New Relic Ganhos**
 
@@ -282,9 +325,31 @@ Aplicação dos Conceitos
 - Solicitação de um relatório das versões dos ambientes de desenvolvimento e produção;
 - Criação de um máquina para utilização no ambiente de desenvolvimento e no ambiente de produção;
 
-[imagens]
+- Versões ambientes;
 
-**Docker Ganhos
+
+![screenshot](../img/docker/tabela-diferenca-ambientes.png)
+
+
+- Versões máquinas Docker;
+
+
+![screenshot](../img/docker/versoes-maquina-docker-crs.png)
+
+
+- Exemplo Dockerfile;
+
+
+![screenshot](../img/docker/exemplo-dockerfile.png)
+
+
+- Exemplo comandos Docker;
+
+
+![screenshot](../img/docker/comando-image-teste-docker.png)
+
+
+**Docker Ganhos**
 
 - Fácil utilização e distribuição;
 - Muito utilizado atualmente por devs/ops;
@@ -317,7 +382,7 @@ Resultados
 > A aplicação de uma cultura precisa de tempo e muita motivação diante dos processos burocráticos da instituição.
 
 - Processos burocráticos da Instituição;
-> Meio corporativos possuem muitos vícios, que são difíceis de serem quebrados.
+> Meio corporativo possuem muitos vícios, que são difíceis de serem quebrados.
 
 Conclusões
 ----------
