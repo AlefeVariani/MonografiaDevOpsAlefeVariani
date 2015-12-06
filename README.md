@@ -12,17 +12,17 @@ Tema
 Resumo
 ------
 
-- [Resumo e Abstract](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/blob/master/Resumo.md)
+- [Resumo e Abstract](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/blob/master/resumo.md)
 
 Listas
 ------
 
-- [Listas de siglas e ilustrações](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/blob/master/Listas.md)
+- [Listas de siglas e ilustrações](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/blob/master/listas.md)
 
 Sumário
 -------
 
-- [Sumário](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/blob/master/EstruturaGeral.md)
+- [Sumário](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/blob/master/estrutura-geral.md)
 
 Informações
 -----------
@@ -32,5 +32,5 @@ Informações
 
 **Mapeamento das apresentações**
 
-- [Mapeamento Apresentação da Monografia I](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/blob/master/monografia-I/README.md)
-- [Mapeamento Apresentação da Monografia II](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/blob/master/monografia-II/README.md)
+- [Mapeamento Apresentação Monografia I](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/blob/master/monografia-I/README.md)
+- [Mapeamento Apresentação Monografia II](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/blob/master/monografia-II/README.md)
