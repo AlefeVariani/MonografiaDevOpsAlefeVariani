@@ -2,7 +2,7 @@ Monografia I e II - Alefe Variani
 ==================================
 
 
-- UNIVERSIDADE COMUNITÁRIA DA REGIÃO DE CHAPECÓ [UNOCHAPECÓ](http://unochapeco.edu.br/) Área de Ciências Exatas e Ambientais - Ciência da Computação
+UNIVERSIDADE COMUNITÁRIA DA REGIÃO DE CHAPECÓ [UNOCHAPECÓ](http://unochapeco.edu.br/) Área de Ciências Exatas e Ambientais - Ciência da Computação (2015)
 
 Tema
 ----
@@ -29,3 +29,8 @@ Informações
 
 - Apresentação da Monografia I dia 18/06/2015, material disponível no [SlideShare](http://pt.slideshare.net/alefevariani/devops-49735272).
 - Apresentação da Monografia II dia 25/11/2015, material disponível no [SlideShare](http://pt.slideshare.net/alefevariani/devops-ambientes-padronizados-e-monitoramento-da-aplicao-monografia-ii).
+
+**Mapeamento das apresentações**
+
+- [Mapeamento Apresentação da Monografia I](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/blob/master/monografia-I/README.md)
+- [Mapeamento Apresentação da Monografia II](https://github.com/AlefeVariani/MonografiaDevOpsAlefeVariani/blob/master/monografia-II/README.md)

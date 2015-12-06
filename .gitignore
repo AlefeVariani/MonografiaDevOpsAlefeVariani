@@ -1,6 +1,6 @@
 *.md~
-livros
 *.~lock*
-afazer.md
-mabeamentoApresentacao.md
 crs-uno-server
+arquivos-aulas
+monografia-I/*.odt
+monografia-II/*.odt

@@ -37,7 +37,7 @@ Justificativa
 > Equipe de operações não participa.
 
 - Medos de mudanças e liberações de versões (deploy) arriscadas;
-> Equipes de operações geralmente não tem certeza de que as liberações não possue nenhum erro.
+> Equipes de operações geralmente não tem certeza de que as liberações não possui nenhum erro.
 
 - Surgimento de Silos;
 > Empresas de TI geralmente são divididas em equipes ou departamentos, cada qual com suas funcionalidades, sem haver comunicação entre elas.
@@ -169,7 +169,7 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 
 ![screenshot](../img/vagrant-logo.png)
 
-![screenshot](../img/docker-logo.png)
+![screenshot](../img/docker/docker-logo.png)
 
 - Gerenciamento das Configurações da Aplicação;
 
@@ -186,7 +186,7 @@ DevOps se mantêm em quatro pilares principais, conhecidos pelas siglas C.A.M.S.
 > Busca manter configurações únicas permitindo o compartilhamento entre maquinas.
 
 
-![screenshot](../img/Puppet_Labs_Logo.png)
+![screenshot](../img/puppet-labs-logo.png)
 
 ![screenshot](../img/pic-chef-logo.png)
 
@@ -376,7 +376,7 @@ Resultados
 **Desvantagens**
 
 - Tempo gasto para aprender e utilizar ferramentas;
-> Hoje o tempo é sempre muito abertado.
+> Hoje o tempo é sempre muito apertado.
 
 - Tempo para assimilar novos conceitos;
 > A aplicação de uma cultura precisa de tempo e muita motivação diante dos processos burocráticos da instituição.
