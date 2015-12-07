@@ -27,7 +27,7 @@ Sumário
 Informações
 -----------
 
-- Apresentação da Monografia I dia 18/06/2015, material disponível no [SlideShare](http://pt.slideshare.net/alefevariani/devops-49735272).
+- Apresentação da Monografia I dia 18/06/2015, material disponível no [SlideShare](http://pt.slideshare.net/alefevariani/devops-49735272){:target="_blank"}.
 - Apresentação da Monografia II dia 25/11/2015, material disponível no [SlideShare](http://pt.slideshare.net/alefevariani/devops-ambientes-padronizados-e-monitoramento-da-aplicao-monografia-ii).
 
 **Mapeamento das apresentações**
